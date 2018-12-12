@@ -1,1 +1,2 @@
 # scalaTraining
+scala is fun!
